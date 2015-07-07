@@ -1,3 +1,5 @@
+Репозиторий перенесен: https://github.com/yandex-money/
+
 # Omnipay: Yandex.Money
 
 **Yandex.Money driver for the Omnipay PHP payment processing library**
